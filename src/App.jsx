@@ -7,7 +7,7 @@ import EmployeeCard from "./components/EmployeeCard";
 function App() {
   const employee = {
     id: 1,
-    name: "Rahul",
+    name: "Chetan",
     designation: "Frontend Developer",
     skills: ["React", "JavaScript", "Redux"],
     isActive: true
